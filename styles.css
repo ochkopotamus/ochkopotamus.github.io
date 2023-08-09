@@ -8,6 +8,10 @@ body {
     font-weight: bold;
 }
 
+#japan {
+    right: 10px;
+}
+
 #header {
     padding-top: 35px;
 } 
@@ -17,8 +21,8 @@ body {
 }
 
 .banchan {
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 500px;
 }
 
 a:link { 
